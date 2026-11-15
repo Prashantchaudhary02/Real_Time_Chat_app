@@ -1,0 +1,23 @@
+{
+  "name": "pulsechat",
+  "version": "1.0.0",
+  "description": "A modern, lightweight real-time chat application built with React, Vite, Express, and Socket.io.",
+  "type": "module",
+  "scripts": {
+    "dev": "node start-dev.js",
+    "start": "node server/server.js",
+    "build": "cd client && npm run build",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev"
+  },
+  "keywords": [
+    "real-time",
+    "chat",
+    "socket.io",
+    "react",
+    "vite",
+    "tailwindcss"
+  ],
+  "author": "",
+  "license": "MIT"
+}
