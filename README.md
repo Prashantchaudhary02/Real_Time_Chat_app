@@ -1,3 +1,5 @@
+-----------InternID: CITS9868--------------
+
 # PulseChat ⚡ — Modern Real-Time Chat Application
 
 A sleek, responsive, and feature-packed real-time chat application built with **React**, **Vite**, **Tailwind CSS**, **Node.js**, **Express**, and **Socket.io**.
